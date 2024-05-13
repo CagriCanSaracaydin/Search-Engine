@@ -34,7 +34,7 @@ This repository contains a robust implementation of two fundamental data structu
 Clone the repository and include the header files (`BST.h` and `HashTable.h`) in your C++ project. No external dependencies are required, as the project uses only standard libraries. 
 
 ```bash
-git clone https://github.com/yourusername/cpp-data-structures.git
+git clone https://github.com/yourusername/Search-Engine.git
 ```
 
 ### Usage
